@@ -1,7 +1,7 @@
 package com.sapient.league.resource;
 
 import com.sapient.league.resource.model.filter.LeagueResourceFilter;
-import com.sapient.league.resource.model.out.TeamStanding;
+import com.sapient.league.resource.model.filter.TeamStanding;
 import com.sapient.league.service.LeagueStandingService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

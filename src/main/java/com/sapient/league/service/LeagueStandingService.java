@@ -4,7 +4,7 @@ import com.sapient.league.connector.APIConnector;
 import com.sapient.league.connector.model.TeamStandingResponse;
 import com.sapient.league.exception.DataNotFoundException;
 import com.sapient.league.resource.model.filter.LeagueResourceFilter;
-import com.sapient.league.resource.model.out.TeamStanding;
+import com.sapient.league.resource.model.filter.TeamStanding;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
